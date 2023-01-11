@@ -1,0 +1,82 @@
+body {
+  color: rgb(103, 57, 57);
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size: 20px;
+  display: flex;
+  flex-direction: column;
+}
+
+.container {
+  margin: 0 auto;
+  padding: 1.5em;
+  width: 1168px;
+}
+
+section .container {
+  background-color: rgb(226, 216, 216);
+}
+
+header {
+  background-color: white;
+  padding: 1em;
+  text-align: center;
+}
+
+h1 {
+  font-size: 2em;
+}
+
+.img-container {
+  text-align: center;
+  margin-bottom: 2em;
+}
+
+.my-image {
+  box-shadow: 0.5rem 0.5rem rgb(150, 125, 125), -0.5rem -0.5rem rgb(167, 173, 183);
+  width: 30%;
+}
+
+h2 {
+  font-size: 24px;
+  padding-bottom: 1em;
+  text-decoration: underline;
+  text-transform: uppercase;
+}
+
+dl {
+  padding-left: 1em;
+}
+
+dt {
+  font-size: 18px;
+  font-weight: bold;
+  padding-bottom: 0.2em;
+}
+
+dd {
+  font-size: 18px;
+  font-weight: lighter;
+  padding-bottom: 1em;
+}
+
+dd:last-child {
+  padding-bottom: 0;
+}
+
+dd ul {
+  font-style: italic;
+  list-style-type: square;
+  padding-left: 1.5em;
+}
+
+footer {
+  align-items: center;
+  background-color: white;
+  display: flex;
+  height: 50px;
+}
+
+footer .copyright {
+  font-size: 14px;
+  text-align: center;
+}
