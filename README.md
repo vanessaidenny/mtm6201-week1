@@ -1,9 +1,9 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/vanessaidenny/mtm6201-week1?color=blueviolet&style=plastic)
 ![GitHub contributors](https://img.shields.io/github/contributors/vanessaidenny/mtm6201-week1?color=brightgreen&style=plastic)
 
-# 💻 GitHub Pages Repository
+# 💻 Biography Page Repository
 
-This final project is to build an website from the given prototype design. The content and the images to be used on the design are also provided.
+This project is a biography page for Web Development II introduction.
 
 ### Table of Contents
 
